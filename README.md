@@ -92,3 +92,5 @@
         
         - Em relação aos clientes campeões e fiéis , acreditamos que é um segmento que pode ser recompensado através de prêmios, descontos ou outras experiências que os façam se sentirem reconhecidos e  assim, possam fazer a indicação de novos clientes. Importante também é entender qual é a motivação que leva esse segmento a ser tão fiel à marca da empresa , afim de tornar a sua participação ainda maior.
         - Já em relação aos clientes em risco acreditamos ser importante melhorar o pós venda e que sejam descobertas as razões de não estarem mais comprando da empresa. Uma boa opção também é oferecer novos produtos ou similares aos que consumiam, para que novamente despertem o interesse pela marca da empresa.
+     
+          - **LINKS DE INTERESSE**
