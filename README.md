@@ -96,5 +96,6 @@
           - **LINKS DE INTERESSE**
 
            [Banco de dados](https://docs.google.com/spreadsheets/d/1sWoEeGJo9l_Hw0RYmW2hbbDHcrd0UgBQ-A5QOPh3MUI/edit?usp=sharing)
-
+          
+            [Dashboard](https://lookerstudio.google.com/reporting/45e157e5-9b95-466e-bd1a-0ed67bd129c2)
             
