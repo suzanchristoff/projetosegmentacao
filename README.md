@@ -94,3 +94,7 @@
         - Já em relação aos clientes em risco acreditamos ser importante melhorar o pós venda e que sejam descobertas as razões de não estarem mais comprando da empresa. Uma boa opção também é oferecer novos produtos ou similares aos que consumiam, para que novamente despertem o interesse pela marca da empresa.
      
           - **LINKS DE INTERESSE**
+
+           [Texto do Link]([URL](https://docs.google.com/spreadsheets/d/1sWoEeGJo9l_Hw0RYmW2hbbDHcrd0UgBQ-A5QOPh3MUI/edit?usp=sharing))
+
+            
